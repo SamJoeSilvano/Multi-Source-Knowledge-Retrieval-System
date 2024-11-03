@@ -48,8 +48,10 @@ This project addresses the need for comprehensive information retrieval across v
 3. **Set up API keys**:
 -   Add your OpenAI API key and any other API credentials in an .env file:
     ```bash
-    OPENAI_API_KEY=your_openai_api_key
-    OTHER_API_KEYS=...
+    OPENAI_API_KEY="your_openai_api_key"
+    LANGCHAIN_API_KEY="your_langchain_api_key"
+    GROQ_API_KEY="your_groq_api_key"
+    OTHER_API_KEYS="..."
 
 ## Usage
 
