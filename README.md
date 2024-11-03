@@ -1,6 +1,6 @@
 # Multi-Source Knowledge Retrieval System
 
-A high-speed, Retrieval-Augmented Generation (RAG) pipeline that integrates multiple knowledge sources to deliver precise, relevant search results. This end-to-end system is built using LangChain and FAISS, and leverages OpenAI embeddings to perform semantic searches across platforms such as Wikipedia, arXiv, and custom user-defined websites.
+A high-speed, Retrieval-Augmented Generation (RAG) pipeline that integrates multiple knowledge sources to deliver precise, relevant search results. This end-to-end system is built using LangChain and FAISS, and leverages OpenAI embeddings to perform semantic searches across platforms such as [Wikipedia](https://www.wikipedia.org/), [arXiv](https://arxiv.org/), and custom user-defined websites.
 
 ## Features
 
@@ -72,6 +72,6 @@ This project delivers rapid, relevant responses by leveraging the strengths of m
 - **Enhanced Customization**: User-defined filtering to limit results based on document type, date, or other attributes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 
