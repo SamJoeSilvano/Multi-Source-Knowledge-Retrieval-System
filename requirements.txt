@@ -1,5 +1,6 @@
 langchain_openai 
 langchain_core
+langchain
 python-dotenv
 streamlit
 langchain_community
@@ -20,3 +21,5 @@ groq
 cassio
 beautifulsoup4
 langchain-groq
+requests
+PyPDF2
